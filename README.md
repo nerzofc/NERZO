@@ -1,11 +1,11 @@
 <p align="center">
 <br />
-<a href="https://nerzo.xyz/"><img src="https://ibb.co/88Q9jp0" width="700" alt="nerzo"/></a>
+<a href="https://nerzo.xyz/"><img src="[https://ibb.co/88Q9jp0](https://i.ibb.co/zftZSYr/logo.png)" width="700" alt="nerzo"/></a>
 <br />
 </p>
 <h1 align="center">Links</h1>
 <p align="center">
-<a href="https://nerzo.xyz/"><img src="[https://img.icons8.com/color/48/000000/domain.png](https://i.ibb.co/zftZSYr/logo.png)" width="40" height="40" alt="Website"/></a>
+<a href="https://nerzo.xyz/"><img src="[[https://img.icons8.com/color/48/000000/domain.png](https://i.ibb.co/zftZSYr/logo.png)](https://img.icons8.com/color/48/000000/domain.png)" width="40" height="40" alt="Website"/></a>
 <a href="https://docs.google.com/document/d/1NvL-yIigR5zeCT6UXbX38eba-LZkbkt2x_MePddNVOY/edit"><img alt="docs" src="https://img.icons8.com/color/48/000000/document.png" width="40" height="40"/></a>
 <a href="https://x.com/_nerzo_"><img alt="Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"/></a>
 <a href="https://discord.gg/FytJTGwhkR"><img alt="Join our Discord!" src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40"/></a>
