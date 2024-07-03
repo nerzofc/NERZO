@@ -1,6 +1,6 @@
 <p align="center">
 <br />
-<a href="https://nerzo.xyz/"><img src="[https://ibb.co/88Q9jp0](https://i.ibb.co/zftZSYr/logo.png)" width="700" alt="nerzo"/></a>
+<a href="https://nerzo.xyz/"><img src="https://i.ibb.co/zftZSYr/logo.png" width="700" alt="nerzo"/></a>
 <br />
 </p>
 <h1 align="center">Links</h1>
