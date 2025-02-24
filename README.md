@@ -32,7 +32,7 @@ Committed to global creator support, we equip artists with the tools they need, 
 
 - **Seamless Minting**: Nerzo introduces Zero-Knowledge Minting to simplify the NFT creation process for everyone.
 - **Web3 Analytics**: Utilize our complimentary tool to assess the standing of your wallet within the ecosystem.
-- **Staking**: Participate in staking to earn $NRZ tokens rewards, enhancing your investment.
+- **Staking**: Participate in staking to earn $NERZO tokens rewards, enhancing your investment.
 - **Global Creator Empowerment**: We actively support and elevate artists on a worldwide platform.
 - **Expansive Blockchain Integration**: Our platform is engineered for accessibility, supporting over 10 blockchain networks.
 
